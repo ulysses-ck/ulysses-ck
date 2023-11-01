@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/ulisesapaza/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn Badge"/></a>
   <img src="https://img.shields.io/badge/Discord-7289d9?style=flat&logo=discord&logoColor=white&logoWidth=40" alt="Discord Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white&logoWidth=40" alt="Twitter Badge"/>  
 </div>
