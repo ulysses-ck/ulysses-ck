@@ -13,7 +13,7 @@
 I'm a frontend developer based on Argentina :woman_technologist:
 
 - 🔭 I’m currently working as Freelance
-- 🌱 I’m currently learning Cloud
+- 🌱 I’m currently learning Android Development
 
 ## :hammer_and_wrench: Languages and Tools :
 
