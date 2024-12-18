@@ -50,3 +50,6 @@ I'm a frontend developer based on Argentina :woman_technologist:
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ulysses-ck&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<img src="https://api.githubtrends.io/user/svg/ulysses-ck/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark" />
