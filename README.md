@@ -30,3 +30,5 @@ I'm a frontend developer based on Argentina :woman_technologist:
 
 
 <img src="https://api.githubtrends.io/user/svg/ulysses-ck/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark" />
+
+<img src="https://api.githubtrends.io/user/svg/ulysses-ck/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
