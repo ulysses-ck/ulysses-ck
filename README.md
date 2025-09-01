@@ -23,12 +23,3 @@ I'm a frontend developer based on Argentina :woman_technologist:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ulysses-ck&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<img src="https://api.githubtrends.io/user/svg/ulysses-ck/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=dark" />
-
-<img src="https://api.githubtrends.io/user/svg/ulysses-ck/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark" />
