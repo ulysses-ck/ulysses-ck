@@ -2,7 +2,7 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                svg {
+                .asd {
                     background: blue;
                     width: 100vw;
                     height: 100vw;                
